@@ -12,7 +12,7 @@ I want to use an imaginary module called app-maker. Let's require it.
 
 ```js
 // app.js
-const appMaker = require('app-maker')
+const appMaker = require('app-maker');
 ```
 
 Now I will run the file with the following command:
